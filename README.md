@@ -1,6 +1,7 @@
 # Razorpay Landing Page
 This landing page was created for Razorpay, a popular payment gateway service in India. The page was built using HTML, Tailwind CSS, Vite, and Node.
 
+
 Technologies Used
 HTML
 Tailwind CSS
@@ -20,3 +21,5 @@ Using Tailwind CSS, the design of the page is easily customizable, and the Vite 
 
 # Conclusion
 This landing page was created using a combination of HTML, Tailwind CSS, Vite, and Node, resulting in a visually appealing and functional page that effectively showcases Razorpay's payment solutions.
+#Screensorts
+![screencapture-localhost-5173-2023-04-10-15_18_37](https://user-images.githubusercontent.com/97740459/230878910-ad951d9a-92a7-4ca6-ac10-3ca0baa401d1.png)
